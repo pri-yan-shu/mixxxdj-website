@@ -317,6 +317,10 @@ AUTHOR_METADATA = {
         "github": "xARSENICx",
         "tagline": "GSoC 2026 Contributor",
     },
+    "Priyanshu (piri)": {
+        "github": "pri-yan-shu",
+        "tagline": "GSoC 2026 Contributor",
+    },
 }
 
 # Needed for Jinja2 markdown filter

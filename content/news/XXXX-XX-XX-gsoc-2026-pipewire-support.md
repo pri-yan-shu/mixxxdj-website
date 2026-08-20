@@ -3,6 +3,7 @@ authors: Priyanshu (piri)
 tags: gsoc, gsoc-2026, development, PipeWire
 comments: yes
 summary: Progress report on Google Summer of Code 2026 project to add PipeWire support to Mixxx on Linux
+date: 2026-08-20 12:00:00
 
 Hi, I'm Priyanshu, and for my GSoC 2026 project, me and @daschuer have been working on adding PipeWire support to Mixxx on Linux platform.
 
